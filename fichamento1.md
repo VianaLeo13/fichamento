@@ -15,9 +15,9 @@ O artigo aborda as mudanças e desafios que as universidades, principalmente as 
 
 ## 3. Fichamento de Citações
 
-- _"As universidades públicas enfrentam uma crescente pressão para adaptar-se às exigências do mercado de trabalho global, ao mesmo tempo que preservam sua missão de promover o ensino, a pesquisa e a extensão."_ (página 2)
-- _"A Quarta Revolução Industrial está transformando todos os aspectos da vida social e econômica, e a universidade precisa ser parte ativa desse processo."_ (página 3)
-- _"A burocracia e as estruturas rígidas dificultam a capacidade das universidades de inovar e promover mudanças internas."_ (página 5)
-- _"Apesar do aumento do acesso ao ensino superior, ainda há uma grande disparidade na qualidade da formação oferecida, com impactos diretos na empregabilidade dos egressos."_ (página 4)
-- _"O futuro das universidades depende de sua capacidade de integrar as novas tecnologias de forma crítica e de renovar seu papel como centro de formação e inovação."_ (página 6)
+- _"Esse sistema de desenvolvimento de novos conhecimentos, plataformas e aparelhos eletrônicos já alterou em muito o curso da humanidade."_ (parágrafo 1).
+- _"O tripé universitário — ensino, pesquisa e extensão — precisa ser adaptado às novas demandas de uma sociedade mais interconectada e digital."_ (parágrafo 7).
+- _"O foco da universidade é primeiramente o ensino, que está atrelado e se beneficia da pesquisa e da extensão."_ (parágrafo 5).
+- _"Os bons profissionais, formados dentro da universidade, vão para a iniciativa privada, porque têm mais oportunidades, salários astronomicamente maiores."_ (parágrafo 5).
+- _"O aluno precisa estar disponível para suas vivências, eventos e networking."_ (parágrafo 10).
 
